@@ -17,6 +17,7 @@ tests.[ext]: Test cases used to verify the solution (if applicable).
 How to Use
 Feel free to browse through the daily challenges and explore the solutions. You can clone this repository to your local machine using the following command:
 
+If you want to commit just add your name after your file name for that day.
 bash
 git clone : https://github.com/Manju-IT/Daily_Coding_Challenge.git
 
